@@ -1,0 +1,49 @@
+img{
+  width: 15% ;
+  padding: 2%;
+  border-radius: 50%;
+  float:left
+}
+
+.titulo{  
+  margin-right: 20%;
+  margin-left: 3%;
+  margin-top: 6%;
+  padding-left: 5%;  
+}
+
+.subtitulo{
+  padding-left: 5%;  
+}
+
+li{
+  display: inline-block;
+  margin: 0 0 0 15px;  
+  text-align: center;
+}
+
+.p1{
+  background-color:antiquewhite
+}
+
+.p2{
+background-color:beige;
+}
+
+.p3{
+  background-color: azure;
+}
+
+.duvidas{
+text-align: center;
+}
+
+.botao{
+  position: relative;
+  text-align: center;
+  display: flex;
+}
+
+footer{
+  text-align: center;
+}
